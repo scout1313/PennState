@@ -29,7 +29,7 @@ public class Tackle{
     }
     
     public void setTackleLocation(int x, int y){
-     //   this.setBounds(x, y, TACKLE_SIZE, TACKLE_SIZE);
+     //  this.setBounds(x, y, TACKLE_SIZE, TACKLE_SIZE);
         tackleLocation.setBounds(x, y, TACKLE_SIZE, TACKLE_SIZE);
     }
     
