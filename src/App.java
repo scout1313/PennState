@@ -18,7 +18,6 @@ public class App {
         View v = new View();
         Model m = new Model();
         Controller c = new Controller(m,v);
-      //W  c.getTimer().start();
 
     }
     
